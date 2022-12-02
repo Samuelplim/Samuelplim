@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Samuel Delgado 👋
 
-<!--
-**Samuelplim/Samuelplim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+I'm a Web Developer. And, I'm studying web development at [Rocketseat](https://app.rocketseat.com.br/).
 
-Here are some ideas to get you started:
+#### Current stack
+- :sparkles:Main language: Javascript
+- :card_file_box:Backend: Nodejs
+- :art:Frontend: Reactjs, HTML5, CSS3, Javascript, Vue.js, ReactNative
+- :memo:Layout Desing: Figma
+- :package:Version conde control: Git & Github
+- :technologist:Tools: VsCode, Markdown
+- :beers:I'm mostly active within the Rockeseat Community
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+####
+- 📧Email: samuel12nerd@gmail.com
+- :bulb:Linkedin: [samuel-delgado](https://www.linkedin.com/in/samuel-delgado/)
