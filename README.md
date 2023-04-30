@@ -1,7 +1,7 @@
 ### Hi there, I'm Samuel Delgado 👋
 
 #### About
-I'm a Web Developer. And, I'm studying web development at [Rocketseat](https://app.rocketseat.com.br/).
+I'm a Software Developer.
 
 #### Current stack
 - :sparkles:Main language: Javascript
